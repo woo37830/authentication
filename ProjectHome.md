@@ -1,0 +1,1 @@
+Building a framework for authentication that can use LDAP, a local database, an xml file, etc. as a pluggable authentication mechanism.  A factory method driven from a configuration file will determine which kind of authentication is needed.  I want this to support actor/role/Person type relationships.
